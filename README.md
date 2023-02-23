@@ -36,4 +36,6 @@ Day 17: T-FlipFlop
 
 Day 18: Master slave JK-FlipFlop
 
+Day 19: 4-Bit Synchronous Up Counter
+
 
