@@ -38,4 +38,12 @@ Day 18: Master slave JK-FlipFlop
 
 Day 19: 4-Bit Synchronous Up Counter
 
+Day 20: 4-Bit Synchronous Down Counter
+
+Day 21: 4-Bit UpDown Counter
+
+Day 22: 4-bit MODN-UpDown Counter
+
+
+
 
