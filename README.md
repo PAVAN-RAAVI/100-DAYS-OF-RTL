@@ -44,6 +44,10 @@ Day 21: 4-Bit UpDown Counter
 
 Day 22: 4-bit MODN-UpDown Counter
 
+Day 23: Bi-Directional Shift Register
+
+DAy 24: 5-Input Majority Circuit
+
 
 
 
