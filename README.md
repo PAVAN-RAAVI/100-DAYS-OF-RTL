@@ -46,7 +46,12 @@ Day 22: 4-bit MODN-UpDown Counter
 
 Day 23: Bi-Directional Shift Register
 
-DAy 24: 5-Input Majority Circuit
+Day 24: 5-Input Majority Circuit
+
+Day 25: Clock Divider
+
+Day 26: Serial-In-Serial-Out Shift Register
+
 
 
 
