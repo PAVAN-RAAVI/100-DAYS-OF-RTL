@@ -52,6 +52,10 @@ Day 25: Clock Divider
 
 Day 26: Serial-In-Serial-Out Shift Register
 
+Day 27: Serial-In-Parallel-Out Shift Register
+
+Day 28: Parallel-In-Serial-Out Shift Register
+
 
 
 
