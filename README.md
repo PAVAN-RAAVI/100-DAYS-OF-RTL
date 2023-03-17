@@ -56,6 +56,8 @@ Day 27: Serial-In-Parallel-Out Shift Register
 
 Day 28: Parallel-In-Serial-Out Shift Register
 
+Day 29: Parallel-In-Parallel-Out Shift Register
+
 
 
 
