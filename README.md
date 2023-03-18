@@ -58,6 +58,8 @@ Day 28: Parallel-In-Serial-Out Shift Register
 
 Day 29: Parallel-In-Parallel-Out Shift Register
 
+Day 30: Binary to One Hot Encoder
+
 
 
 
