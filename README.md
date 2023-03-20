@@ -60,6 +60,10 @@ Day 29: Parallel-In-Parallel-Out Shift Register
 
 Day 30: Binary to One Hot Encoder
 
+Day 31: Clock Buffer
+
+Day 32: Positive Edge Detector
+
 
 
 
