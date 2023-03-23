@@ -64,6 +64,10 @@ Day 31: Clock Buffer
 
 Day 32: Positive Edge Detector
 
+Day 33: 4-Bit BCD Adder
+
+day 34: 4-Bit Carry Select Adder
+
 
 
 
