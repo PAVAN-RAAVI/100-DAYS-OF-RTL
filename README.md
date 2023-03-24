@@ -66,7 +66,11 @@ Day 32: Positive Edge Detector
 
 Day 33: 4-Bit BCD Adder
 
-day 34: 4-Bit Carry Select Adder
+Day 34: 4-Bit Carry Select Adder
+
+Day 35: 4-Bit Carry Skip Adder
+
+
 
 
 
