@@ -70,6 +70,10 @@ Day 34: 4-Bit Carry Select Adder
 
 Day 35: 4-Bit Carry Skip Adder
 
+Day 36: 4-Bit Ripple Carry Adder
+
+Day 37: Universal Shift Register
+
 
 
 
