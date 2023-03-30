@@ -74,6 +74,8 @@ Day 36: 4-Bit Ripple Carry Adder
 
 Day 37: Universal Shift Register
 
+Day 38: Universal Binary Counter
+
 
 
 
