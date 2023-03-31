@@ -76,6 +76,8 @@ Day 37: Universal Shift Register
 
 Day 38: Universal Binary Counter
 
+Day 39: 8-Bit Barrel Shifter
+
 
 
 
