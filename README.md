@@ -79,6 +79,12 @@ Day 38: Universal Binary Counter
 
 Day 39: 8-Bit Barrel Shifter
 
+Day 40: 8-Bit ALU
+
+Day 41: Moore FSM 1010 Sequence Detector
+
+Day 42: Greatest Common Divisor Using Behavioural Modelling
+
 
 
 
