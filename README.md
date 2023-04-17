@@ -85,6 +85,8 @@ Day 41: Moore FSM 1010 Sequence Detector
 
 Day 42: Greatest Common Divisor Using Behavioural Modelling
 
+Day 43: Round Robin Arbiter
+
 
 
 
