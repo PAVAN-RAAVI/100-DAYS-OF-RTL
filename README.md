@@ -87,6 +87,10 @@ Day 42: Greatest Common Divisor Using Behavioural Modelling
 
 Day 43: Round Robin Arbiter
 
+Day 44: Fixed Priority Arbiter
+
+Day 45: Single Port RAM
+
 
 
 
