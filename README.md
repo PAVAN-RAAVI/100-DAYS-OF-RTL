@@ -91,6 +91,8 @@ Day 44: Fixed Priority Arbiter
 
 Day 45: Single Port RAM
 
+Day 46: Dual Port RAM
+
 
 
 
