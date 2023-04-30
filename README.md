@@ -94,6 +94,8 @@ Day 46: Dual Port RAM
 
 Day 47: Synchronous FIFO(First-in-First-Out)
 
+Day 48: Johnson Counter
+
 
 
 
