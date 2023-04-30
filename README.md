@@ -28,7 +28,6 @@ Day 13: SR-Latch
 
 Day 14: SR-FlipFlop
 
-
 Day 15: JK-FlipFlop
 
 Day 16: D-FlipFlop
@@ -92,6 +91,12 @@ Day 44: Fixed Priority Arbiter
 Day 45: Single Port RAM
 
 Day 46: Dual Port RAM
+
+Day 47: Synchronous FIFO(First-in-First-Out)
+
+
+
+
 
 
 
