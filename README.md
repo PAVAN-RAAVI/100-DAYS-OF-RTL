@@ -1,4 +1,10 @@
-# 100-DAYS-OF-RTL
+
+# WELCOME TO MY 100-DAYS-OF-RTL
+My Name is RAAVI.PAVAN KUMAR, I mostly use Xilinx(vivado) ISE 14.7 Design Suite  software for the simulation of RTL Codes.
+
+PART 1: VERILOG(First 50 Days)
+
+Here is the list of Day wise RTL Codes:
 
 Day 1: Half Adder
 
@@ -98,7 +104,7 @@ Day 48: Johnson Counter
 
 Day 49: Serial Adder
 
-                                                      SystemVerilog
+
 
 
 
