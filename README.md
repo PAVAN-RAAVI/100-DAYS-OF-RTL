@@ -104,6 +104,8 @@ Day 48: Johnson Counter
 
 Day 49: Serial Adder
 
+Day 50: Seven Segment Display Using ROM(Read Only Memory)
+
 
 
 
