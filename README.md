@@ -96,6 +96,8 @@ Day 47: Synchronous FIFO(First-in-First-Out)
 
 Day 48: Johnson Counter
 
+Day 49: Serial Adder
+
 
 
 
