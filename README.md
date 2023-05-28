@@ -109,7 +109,9 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
                                                                            SYSTEM VERILOG
                                                                            
- Day 51:Test Bench for Hello World ->> https://edaplayground.com/x/s3JL
+ Day 51:Test Bench(Tb) for Hello World ->> https://edaplayground.com/x/s3JL
+ 
+ Day 52: Test Bench(Tb) for String Data type-->>>https://edaplayground.com/x/Hdkt
  
 
 
