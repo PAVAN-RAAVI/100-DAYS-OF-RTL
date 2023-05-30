@@ -113,6 +113,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
  
  Day 52: Test Bench(Tb) for String Data type-->>>https://edaplayground.com/x/Hdkt
  
+ Day 53:Test Bench(Tb) for Fixed Array Delcaration and manipulation ---->>>https://edaplayground.com/x/gmws
+ 
 
 
 
