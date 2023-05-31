@@ -115,6 +115,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
  
  Day 53:Test Bench(Tb) for Fixed Array Delcaration and manipulation ---->>>https://edaplayground.com/x/gmws
  
+ Day 54:Test Bench(Tb) for Dynamic Array Delcaration and Allocation--->>>https://www.edaplayground.com/x/YaB
+ 
 
 
 
