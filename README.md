@@ -119,6 +119,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
  
  Day 55: Test Bench(Tb) for Associative Array ------->>>https://edaplayground.com/x/f3Yx
  
+ Day 56:Test Bench(Tb) for Queue--------->>https://www.edaplayground.com/x/3dFw
+ 
 
 
 
