@@ -121,6 +121,7 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
  
  Day 56:Test Bench(Tb) for Queue--------->>https://www.edaplayground.com/x/3dFw
  
+ Day 57:Test Bench(Tb) for Blocking Assignment----->>>https://edaplayground.com/x/AwYv
 
 
 
