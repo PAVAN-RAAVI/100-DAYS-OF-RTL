@@ -124,6 +124,10 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
  Day 57:Test Bench(Tb) for Blocking Assignment----->>>https://edaplayground.com/x/AwYv
  
  Day 58:Test Bench(Tb) for Non-Blocking Assignment-------->>https://edaplayground.com/x/XG5_
+ 
+ Day 59:Fork_Join---->>>https://edaplayground.com/x/q9aA
+ 
+ Day 60:Fork_Join_Any---->>>https://edaplayground.com/x/qeCj
 
 
 
