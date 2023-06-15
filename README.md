@@ -130,6 +130,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
  Day 60:Fork_Join_Any---->>>https://edaplayground.com/x/qeCj
  
  Day 61:TB Tasks---->>https://edaplayground.com/x/dEZx
+ 
+ Day 62: TB Functions--->>https://edaplayground.com/x/SqAP
 
 
 
