@@ -135,6 +135,10 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 63: TB This Keyword---->>>https://www.edaplayground.com/x/LWKT
 
+ Day 64: TB Constructor---->>>https://www.edaplayground.com/x/qtpM
+
+ 
+
 
 
 
