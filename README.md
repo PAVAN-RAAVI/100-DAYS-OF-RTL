@@ -137,6 +137,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 64: TB Constructor---->>>https://www.edaplayground.com/x/qtpM
 
+ Day 65: TB Static Class Memebr--->>https://www.edaplayground.com/x/mhsK
+
  
 
 
