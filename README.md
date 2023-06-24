@@ -139,6 +139,10 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 65: TB Static Class Memebr--->>https://www.edaplayground.com/x/mhsK
 
+ Day 66: TB Shallow Copy----->>>https://www.edaplayground.com/x/LZAv
+
+ 
+
  
 
 
