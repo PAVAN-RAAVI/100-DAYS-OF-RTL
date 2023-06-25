@@ -141,6 +141,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 66: TB Shallow Copy----->>>https://www.edaplayground.com/x/LZAv
 
+ Day 67: TB Deep Copy---->>>https://www.edaplayground.com/x/nhBr
+
  
 
  
