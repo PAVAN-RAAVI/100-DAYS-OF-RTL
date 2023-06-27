@@ -145,6 +145,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 68: TB Parameterized Class--->>>https://edaplayground.com/x/LnRQ
 
+ Day 69: TB Inheritance--->>>https://www.edaplayground.com/x/jykC
+
  
 
  
