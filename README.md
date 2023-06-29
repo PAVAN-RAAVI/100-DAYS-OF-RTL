@@ -147,6 +147,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 69: TB Inheritance--->>>https://www.edaplayground.com/x/jykC
 
+ Day 70: TB Overriding Class--->>>https://www.edaplayground.com/x/aSEV
+
  
 
  
