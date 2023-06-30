@@ -149,6 +149,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 70: TB Overriding Class--->>>https://www.edaplayground.com/x/aSEV
 
+ Day 71: TB Super Keyword--->>>https://www.edaplayground.com/x/pFJX
+
  
 
  
