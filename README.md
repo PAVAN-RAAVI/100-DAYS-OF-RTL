@@ -151,6 +151,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 71: TB Super Keyword--->>>https://www.edaplayground.com/x/pFJX
 
+ Day 72: TB Casting--->>>https://www.edaplayground.com/x/mK7q
+
  
 
  
