@@ -153,6 +153,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 72: TB Casting--->>>https://www.edaplayground.com/x/mK7q
 
+ Day 73: TB Access Control--->>>https://www.edaplayground.com/x/YFGg
+
  
 
  
