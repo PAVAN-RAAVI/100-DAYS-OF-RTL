@@ -155,6 +155,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 73: TB Access Control--->>>https://www.edaplayground.com/x/YFGg
 
+ Day 74: TB Abstract Class--->>>https://www.edaplayground.com/x/8mMH
+
  
 
  
