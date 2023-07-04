@@ -157,6 +157,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 74: TB Abstract Class--->>>https://www.edaplayground.com/x/8mMH
 
+ Day 75: TB Scope Resolution Operator--->>>https://www.edaplayground.com/x/b6W4
+
  
 
  
