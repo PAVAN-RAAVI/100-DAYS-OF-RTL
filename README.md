@@ -159,7 +159,9 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 75: TB Scope Resolution Operator--->>>https://www.edaplayground.com/x/b6W4
 
- Day 76: Constraints to generator a Pattern"0102030405"--->>>https://edaplayground.com/x/DyUE
+ Day 76: TB Constraints to generator a Pattern"0102030405"--->>>https://edaplayground.com/x/DyUE
+
+ Day 77: TB Constraints to generate unique numbers between 99 to 100.-->>>https://edaplayground.com/x/rkBP
 
  
 
