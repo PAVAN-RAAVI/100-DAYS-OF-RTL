@@ -163,6 +163,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 77: TB Constraints to generate unique numbers between 99 to 100.-->>>https://edaplayground.com/x/rkBP
 
+ Day 78: TB Constrained Inheritance--->>>https://www.edaplayground.com/x/PM8f
+
  
 
  
