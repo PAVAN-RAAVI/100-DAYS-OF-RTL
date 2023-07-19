@@ -167,6 +167,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 79: TB Multiple of power 2---->>>>https://edaplayground.com/x/RjCp
 
+ Day 80: TB to verify odd Number in the given range--->>>https://edaplayground.com/x/Lu_5
+
  
 
  
