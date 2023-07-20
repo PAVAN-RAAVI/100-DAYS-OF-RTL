@@ -169,6 +169,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 80: TB to verify odd Number in the given range--->>>https://edaplayground.com/x/Lu_5
 
+ Day 81: TB to verify Semaphore--->>>https://www.edaplayground.com/x/MwF9
+
  
 
  
