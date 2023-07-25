@@ -171,6 +171,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 81: TB to verify Semaphore--->>>https://www.edaplayground.com/x/MwF9
 
+ Day 82: TB to verify Without using unique Keyword in an array--->>>https://edaplayground.com/x/kES3
+
  
 
  
