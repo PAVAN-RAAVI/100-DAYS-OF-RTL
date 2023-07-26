@@ -173,6 +173,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 82: TB to verify Without using unique Keyword in an array--->>>https://edaplayground.com/x/kES3
 
+ Day 83: TB to verify Without using randomization method or rand keyword--->>>https://edaplayground.com/x/BjB6
+
  
 
  
