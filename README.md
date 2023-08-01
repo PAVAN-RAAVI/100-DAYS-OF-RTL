@@ -175,6 +175,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 83: TB to verify Without using randomization method or rand keyword--->>>https://edaplayground.com/x/BjB6
 
+ Day 84: TB to generate random values 0,1,x,z.--->>>https://edaplayground.com/x/D35Y
+
  
 
  
