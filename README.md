@@ -177,6 +177,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 84: TB to generate random values 0,1,x,z.--->>>https://edaplayground.com/x/D35Y
 
+ Day 85: TB to Create the MailBox--->>>https://www.edaplayground.com/x/M3UQ
+
  
 
  
