@@ -179,6 +179,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 85: TB to Create the MailBox--->>>https://www.edaplayground.com/x/M3UQ
 
+ Day 86: TB Events--->>>>https://edaplayground.com/x/FCFb
+
  
 
  
