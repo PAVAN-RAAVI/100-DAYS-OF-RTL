@@ -181,6 +181,9 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 86: TB Events--->>>>https://edaplayground.com/x/FCFb
 
+ Day 87: TB Program and Module Block---->>>>https://edaplayground.com/x/tUdr
+ 
+
  
 
  
