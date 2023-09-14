@@ -189,6 +189,10 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 90: TB to verify Virtual Interface--->>>https://www.edaplayground.com/x/euNp
 
+ Day 91: /*TB to generate a sequence of 10 random single-bit values that alternate between 0 and 1.---->>>>https://edaplayground.com/x/TZ2h
+                                                                                output:1010101010*/
+
+
  
 
  
