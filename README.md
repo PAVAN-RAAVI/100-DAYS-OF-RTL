@@ -187,6 +187,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
  Day 89: TB to generate the factorial of First 5 even number--->>>https://www.edaplayground.com/x/c8Mc
 
+ Day 90: TB to verify Virtual Interface--->>>https://www.edaplayground.com/x/euNp
+
  
 
  
