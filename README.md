@@ -194,6 +194,8 @@ Day 50: Seven Segment Display Using ROM(Read Only Memory)
 
 Day 92: TB to generate the factorial of the first 5 even numbers--->>>https://edaplayground.com/x/P38h
 
+Day 93:TB to verify ModPort--->>>https://www.edaplayground.com/x/sqXE 
+
 
  
 
