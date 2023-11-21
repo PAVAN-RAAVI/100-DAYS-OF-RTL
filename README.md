@@ -198,6 +198,8 @@ Day 93:TB to verify ModPort--->>>https://www.edaplayground.com/x/sqXE
 
 Day 94: TB to verify Assertions---->>>>https://www.edaplayground.com/x/T6qu
 
+Day 95: TB to verify  odd locations in a random array contain even numbers--->>>https://edaplayground.com/x/CcyM
+
 
  
 
