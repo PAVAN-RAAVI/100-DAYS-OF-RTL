@@ -196,6 +196,8 @@ Day 92: TB to generate the factorial of the first 5 even numbers--->>>https://ed
 
 Day 93:TB to verify ModPort--->>>https://www.edaplayground.com/x/sqXE 
 
+Day 94: TB to verify Assertions---->>>>https://www.edaplayground.com/x/T6qu
+
 
  
 
