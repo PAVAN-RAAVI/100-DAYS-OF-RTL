@@ -200,6 +200,8 @@ Day 94: TB to verify Assertions---->>>>https://www.edaplayground.com/x/T6qu
 
 Day 95: TB to verify  odd locations in a random array contain even numbers--->>>https://edaplayground.com/x/CcyM
 
+Day 96: TB to verify Randomize Queue---->>>>https://www.edaplayground.com/x/reDk
+
 
  
 
