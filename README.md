@@ -202,6 +202,8 @@ Day 95: TB to verify  odd locations in a random array contain even numbers--->>>
 
 Day 96: TB to verify Randomize Queue---->>>>https://www.edaplayground.com/x/reDk
 
+Day 97: TB to verify single constraint to generate random values--->>>https://www.edaplayground.com/x/DX8L
+
 
  
 
