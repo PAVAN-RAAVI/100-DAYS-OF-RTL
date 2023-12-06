@@ -204,6 +204,8 @@ Day 96: TB to verify Randomize Queue---->>>>https://www.edaplayground.com/x/reDk
 
 Day 97: TB to verify single constraint to generate random values--->>>https://www.edaplayground.com/x/DX8L
 
+Day 98: TB to Verify CALL_BACK Function--->>>https://www.edaplayground.com/x/3ptt
+
 
  
 
