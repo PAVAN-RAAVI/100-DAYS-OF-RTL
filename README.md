@@ -206,6 +206,8 @@ Day 97: TB to verify single constraint to generate random values--->>>https://ww
 
 Day 98: TB to Verify CALL_BACK Function--->>>https://www.edaplayground.com/x/3ptt
 
+Day 99: TB to verify for ENUM & casting---->>>https://www.edaplayground.com/x/wJQY
+
 
  
 
