@@ -208,6 +208,8 @@ Day 98: TB to Verify CALL_BACK Function--->>>https://www.edaplayground.com/x/3pt
 
 Day 99: TB to verify for ENUM & casting---->>>https://www.edaplayground.com/x/wJQY
 
+Day 100: TB to generate the prime number between the range--->>>https://edaplayground.com/x/g4Tr
+
 
  
 
